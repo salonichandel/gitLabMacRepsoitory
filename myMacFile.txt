@@ -1,0 +1,2 @@
+Hi!
+Welcome to my Git setup on MAC OS
